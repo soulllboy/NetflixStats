@@ -1,0 +1,14 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Extraction",
+      "director": "Sam Hargrave",
+      "cinematographer": "Newton Thomas Sigel",
+      "tomatometer": 67,
+      "audience": 69,
+      "imdb": 6.7,
+      "poster": "extraction"
+    }
+  ]
+}

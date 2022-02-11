@@ -14,7 +14,9 @@ html {
   background: #fafafa;
 }
 body {
-  margin: 56px clamp(0px, calc((100vw - 1116px) / 2), 100vw);
+  //margin: 56px clamp(0px, calc((100vw - 1116px) / 2), 100vw);
+  margin: 50px auto;
+  width: 1116px;
 }
 a {
   text-decoration: none;

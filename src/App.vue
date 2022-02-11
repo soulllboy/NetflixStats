@@ -14,7 +14,6 @@ html {
   background: #fafafa;
 }
 body {
-  margin: 56px clamp(0px, ((100vw - 1116px) / 2), 100vw);
 }
 a {
   text-decoration: none;
@@ -239,5 +238,6 @@ footer {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  margin: 56px clamp(0px, ((100vw - 1116px) / 2), 100vw);
 }
 </style>

@@ -10,6 +10,7 @@
       "audience": 69,
       "imdb": 6.7,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/extraction.png",
+      "link": "https://www.imdb.com/title/tt8936646/",
       "certified": false,
       "accounts": 99,
       "hours": 231
@@ -24,6 +25,7 @@
       "audience": 57,
       "imdb": 6.6,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/bird-box.png",
+      "link": "https://www.imdb.com/title/tt2737304/",
       "certified": false,
       "accounts": 89,
       "hours": 282
@@ -38,6 +40,7 @@
       "audience": 51,
       "imdb": 6.2,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/spenser-confidential.png",
+      "link": "https://www.imdb.com/title/tt8629748/",
       "certified": false,
       "accounts": 85,
       "hours": 197
@@ -52,6 +55,7 @@
       "audience": 60,
       "imdb": 6.1,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/6-underground.png",
+      "link": "https://www.imdb.com/title/tt8106534/",
       "certified": false,
       "accounts": 83,
       "hours": 205
@@ -66,6 +70,7 @@
       "audience": 43,
       "imdb": 6.0,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/murder-mystery.png",
+      "link": "https://www.imdb.com/title/tt1618434/",
       "certified": false,
       "accounts": 83,
       "hours": 0
@@ -80,6 +85,7 @@
       "audience": 70,
       "imdb": 6.7,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/the-old-guard.png",
+      "link": "https://www.imdb.com/title/tt7556122/",
       "certified": true,
       "accounts": 78,
       "hours": 0
@@ -94,6 +100,7 @@
       "audience": 70,
       "imdb": 6.6,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/enola-holmes.png",
+      "link": "https://www.imdb.com/title/tt7846844/",
       "certified": true,
       "accounts": 77,
       "hours": 190
@@ -108,6 +115,7 @@
       "audience": 47,
       "imdb": 6.0,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/project-power.png",
+      "link": "https://www.imdb.com/title/tt7550000/",
       "certified": false,
       "accounts": 75,
       "hours": 0
@@ -122,6 +130,7 @@
       "audience": 86,
       "imdb": 7.8,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/the-irishman.png",
+      "link": "https://www.imdb.com/title/tt1302006/",
       "certified": true,
       "accounts": 0,
       "hours": 215
@@ -136,6 +145,7 @@
       "audience": 39,
       "imdb": 5.7,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/the-kissing-booth-2.png",
+      "link": "https://www.imdb.com/title/tt9784456/",
       "certified": false,
       "accounts": 0,
       "hours": 209
@@ -149,7 +159,8 @@
       "tomatometer": 67,
       "audience": 75,
       "imdb": 5.8,
-      "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/extraction.png",
+      "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/movies/army-of-the-Dead.png",
+      "link": "https://www.imdb.com/title/tt0993840/",
       "certified": false,
       "accounts": 0,
       "hours": 187

@@ -1,6 +1,8 @@
 <template>
   <header class="flex-right">
-    <img src="@/assets\icons\color\netflix.png" />
+    <a href="https://www.netflix.com/" target="_blank" rel="netflix.com"
+      ><img src="@/assets\icons\color\netflix.png"
+    /></a>
     <div class="flex-down">
       <div class="flex-right">
         <div class="button-router button-red button-small">

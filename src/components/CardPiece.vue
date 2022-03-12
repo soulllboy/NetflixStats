@@ -1,5 +1,5 @@
 <template>
-  <div class="outer flex-right" v-if="counterVal > 0">
+  <div class="outer flex-right" v-if="counterVal > 0" @click="gotoLink()">
     <img class="poster" :src="movie.poster" />
     <div class="flex-down info">
       <div class="flex-right">
@@ -78,6 +78,11 @@ export default {
     counterVal: Number,
     msgIcon: String,
     msg: String,
+  },
+  methods: {
+    gotoLink() {
+      window.open(this.movie.link);
+    },
   },
 };
 </script>

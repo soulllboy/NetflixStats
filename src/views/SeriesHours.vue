@@ -1,6 +1,8 @@
 <template>
   <header class="flex-right">
-    <img src="@/assets\icons\color\netflix.png" />
+    <a href="https://www.netflix.com/" target="_blank" rel="netflix.com"
+      ><img src="@/assets\icons\color\netflix.png"
+    /></a>
     <div class="flex-down">
       <div class="flex-right">
         <router-link to="/films-by-hours">
@@ -21,7 +23,7 @@
         </div>
       </div>
       <div class="view-info">
-        <h1>Most Popular Netflix Films</h1>
+        <h1>Most Popular Netflix Series</h1>
         <p>Total view hours per title in its first 28 days on Netflix.</p>
       </div>
       <div class="flex-right date-info">

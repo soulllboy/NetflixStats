@@ -25,11 +25,13 @@ a {
 header {
   width: 1116px;
 
-  & > img {
-    width: 216px;
-    height: 72px;
+  & > a {
     margin: 24px 72px 0px 24px;
     align-self: flex-start;
+    & > img {
+      width: 216px;
+      height: 72px;
+    }
   }
 
   .view-info {
@@ -124,7 +126,11 @@ footer {
           text-decoration: none;
 
           &:hover {
-            text-shadow: 1px 1px 2px #000000;
+            :nth-child(1) {
+              text-decoration: dashed underline #868c90 1px;
+              text-underline-offset: 2px;
+              text-decoration-skip-ink: none;
+            }
           }
 
           :nth-child(1) {
@@ -143,6 +149,7 @@ footer {
   & > img {
     width: 72px;
     height: 72px;
+    visibility: hidden;
   }
 }
 
@@ -166,6 +173,7 @@ footer {
   line-height: 16px;
   font-feature-settings: "liga" off;
   color: #868c90;
+  margin: 0;
 }
 .flex-right {
   display: flex;

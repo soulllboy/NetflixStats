@@ -10,6 +10,7 @@
       "audience": 72,
       "imdb": 7.3,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/bridgerton-s1.png",
+      "link": "https://www.imdb.com/title/tt8740790/",
       "certified": false,
       "accounts": 82,
       "hours": 625
@@ -24,6 +25,7 @@
       "audience": 80,
       "imdb": 7.5,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/lupin-s1.png",
+      "link": "https://www.imdb.com/title/tt2531336/",
       "certified": true,
       "accounts": 76,
       "hours": 0
@@ -38,6 +40,7 @@
       "audience": 91,
       "imdb": 8.2,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/the-witcher-s1.png",
+      "link": "https://www.imdb.com/title/tt5180504/",
       "certified": false,
       "accounts": 76,
       "hours": 541
@@ -52,6 +55,7 @@
       "audience": 34,
       "imdb": 5.4,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/sexlife-s1.png",
+      "link": "https://www.imdb.com/title/tt10839422/",
       "certified": false,
       "accounts": 67,
       "hours": 0
@@ -66,6 +70,7 @@
       "audience": 86,
       "imdb": 8.5,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/stranger-things-s3.png",
+      "link": "https://www.imdb.com/title/tt4574334/",
       "certified": true,
       "accounts": 67,
       "hours": 582
@@ -80,6 +85,7 @@
       "audience": 73,
       "imdb": 7.5,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/money-heist-s4.png",
+      "link": "https://www.imdb.com/title/tt6468322/",
       "certified": false,
       "accounts": 65,
       "hours": 619
@@ -94,6 +100,7 @@
       "audience": 59,
       "imdb": 7.5,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/tiger-king-s1.png",
+      "link": "https://www.imdb.com/title/tt11823076/",
       "certified": false,
       "accounts": 64,
       "hours": 0
@@ -108,6 +115,7 @@
       "audience": 94,
       "imdb": 8.6,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/the-queens-gambit-s1.png",
+      "link": "https://www.imdb.com/title/tt10048342/",
       "certified": false,
       "accounts": 62,
       "hours": 0
@@ -122,6 +130,7 @@
       "audience": 52,
       "imdb": 7.5,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/13-reasons-why-s2.png",
+      "link": "https://www.imdb.com/title/tt1837492/",
       "certified": false,
       "accounts": 0,
       "hours": 496
@@ -136,6 +145,7 @@
       "audience": 80,
       "imdb": 8.3,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/13-reasons-why-s1.png",
+      "link": "https://www.imdb.com/title/tt1837492/",
       "certified": true,
       "accounts": 0,
       "hours": 476
@@ -150,6 +160,7 @@
       "audience": 90,
       "imdb": 8.6,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/stranger-things-s2.png",
+      "link": "https://www.imdb.com/title/tt4574334/",
       "certified": true,
       "accounts": 0,
       "hours": 427
@@ -164,6 +175,7 @@
       "audience": 82,
       "imdb": 8.1,
       "poster": "https://raw.githubusercontent.com/soulllboy/f-netflix/master/src/assets/poster/series/you-s2.png",
+      "link": "https://www.imdb.com/title/tt7335184/",
       "certified": true,
       "accounts": 0,
       "hours": 457
